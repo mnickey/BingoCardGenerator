@@ -1,10 +1,10 @@
-'''
+"""
 Bingo Card Generator
 This will generate a BINGO card with 24 random numbers and a free space in the middle.
 This is intended to be used to print a bingo card for the support staff to use for team building.
 @author Michael Nickey
 @date 12/31/2022
-'''
+"""
 
 import random
 

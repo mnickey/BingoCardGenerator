@@ -35,4 +35,3 @@ def print_nums(card):
 
 
 main()
-
